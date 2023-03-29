@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.Cha1m19" name="[COLOR lime]Cha[/COLOR][COLOR orange]1m[/COLOR] [COLOR red]Wiz[/COLOR][COLOR aqua]ard[/COLOR][COLOR yellow] 19[/COLOR]" version="0.0.9" provider-name="CHAMELEON">
+<addon id="plugin.program.Cha1m19" name="[COLOR lime]Cha[/COLOR][COLOR orange]1m[/COLOR] [COLOR red]Wiz[/COLOR][COLOR aqua]ard[/COLOR][COLOR yellow] 19[/COLOR]" version="1.0.0" provider-name="CHAMELEON">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" optional="true" />
